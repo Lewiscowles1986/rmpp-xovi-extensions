@@ -1,3 +1,4 @@
 [submodule "qt-resource-rebuilder/qmldiff"]
 	path = qt-resource-rebuilder/qmldiff
-	url = https://github.com/asivery/qmldiff
+	url = https://github.com/Lewiscowles1986/qmldiff/
+	branch = feat/output-qml
